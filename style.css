@@ -64,4 +64,11 @@ i {
   .shadow-lg p {
     font-size: 14px;
   }
+    #Boxitem {
+    width: 80%;
+    height: 90vw;
+    background-size: cover;
+    background-position: center;
 }
+}
+
