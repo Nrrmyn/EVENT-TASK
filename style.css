@@ -43,4 +43,25 @@ i {
     background-color: black;
     color: aliceblue;
     border-radius: 50%;
+
+}
+
+
+@media (max-width: 1000px) {
+  .shadow-lg {
+    padding: 10px;
+  }
+
+  .shadow-lg img {
+    max-height: 150px;
+    object-fit: cover;
+  }
+
+  .shadow-lg h3 {
+    font-size: 16px;
+  }
+
+  .shadow-lg p {
+    font-size: 14px;
+  }
 }
